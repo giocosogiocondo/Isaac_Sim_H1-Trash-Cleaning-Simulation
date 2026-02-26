@@ -1,7 +1,5 @@
-# Isaac_Sim_H1-Trash-Cleaning-Simulation
-
-README.md (내용)
-# Isaac Sim H1 Trash Cleanup (Teleop)
+# Isaac Sim H1 Trash Cleanup (Teleop) 아직 수정할 부분 많고 수동 조작입니다 방향키로 조작하세용
+(아마도 TSP 알고리즘을 적용하여 주행까지는 최적화하더라도 실제 청소는 직접 만들어야할거에요)
 
 Unitree **H1**를 Isaac Sim에서 **키보드(방향키)로 조종**하면서, 랜덤으로 생성된 방/내부벽/쓰레기(큐브)를 탐색하고 **근접 유지 시 쓰레기를 제거**하는 데모입니다.
 
