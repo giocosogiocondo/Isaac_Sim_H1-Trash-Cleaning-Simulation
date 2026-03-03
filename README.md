@@ -35,8 +35,11 @@ Unitree **H1**를 Isaac Sim에서 **방향키로 조종**하면서, 랜덤으로
 
 아래처럼 **같은 폴더**에 3개 파일을 놓고 실행하세요.
 trash_env/
+
 ├─ my_h1_policy_in_trash_env.py
+
 ├─ env_gen.py
+
 └─ trash_utils.py
 
 
