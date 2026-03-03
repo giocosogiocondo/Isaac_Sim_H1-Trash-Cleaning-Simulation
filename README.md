@@ -48,11 +48,8 @@ trash_env/
 ## 설치 / 요구사항
 
 ### 필수
-- NVIDIA **Isaac Sim 4.5.0** :contentReference[oaicite:9]{index=9}
-- Isaac Sim에 포함된 Python (일반 Python X) :contentReference[oaicite:10]{index=10}
-
-### Python 패키지
-Isaac Sim이 대부분의 의존성을 포함하지만, 이 프로젝트에서 코드상 명시적으로 사용하는 외부 패키지는 `numpy`입니다. 
+- NVIDIA **Isaac Sim 4.5.0** 
+- Isaac Sim에 포함된 Python (일반 Python X)
 
 ---
 
