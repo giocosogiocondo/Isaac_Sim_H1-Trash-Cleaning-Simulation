@@ -24,7 +24,8 @@ Unitree **H1**를 Isaac Sim에서 **방향키로 조종**하면서, 랜덤으로
   - **←/→**: 제자리 회전
 - 쓰레기 제거 로직: 로봇이 쓰레기 **반경 내에 일정 시간 머무르면 USD Prim 제거** : 3초정도 기다리면 알아서 제거됩니다
 
-![Uploading 1-ezgif.com-resize.gif…]()
+![1-ezgif com-resize](https://github.com/user-attachments/assets/414eab5e-6251-4d1d-8086-16186caa2071)
+
 
 
 
